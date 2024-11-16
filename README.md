@@ -1,1 +1,1 @@
-# NKU-AIMVP
+# NKU-AI小助手
